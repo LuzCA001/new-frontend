@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-session": "^1.18.2"
+  },
+  "name": "novo-frontend-atividade-04",
+  "version": "1.0.0",
+  "description": "criação de um novo frontend para meu backend criado na aula 03",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuzCA001/new-frontend.git"
+  },
+  "keywords": [
+    "front-end"
+  ],
+  "author": "Lucas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuzCA001/new-frontend/issues"
+  },
+  "homepage": "https://github.com/LuzCA001/new-frontend#readme"
+}
